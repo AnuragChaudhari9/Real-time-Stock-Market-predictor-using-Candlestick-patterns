@@ -1,4 +1,4 @@
-## Real-time-Stock-Market-predictor-using-Candlestick-patterns
+## **Real-time-Stock-Market-predictor-using-Candlestick-patterns**
 
 This code obtains real time Stock Market data from Alpha Vantage API and detects two of my favorite Candlestick Patterns: Doji and Tweezer
 ### Doji Pattern 
